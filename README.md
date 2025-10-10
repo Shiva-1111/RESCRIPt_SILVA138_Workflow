@@ -84,8 +84,8 @@ If you use this workflow, please cite:
 - Quast C et al., *Nucleic Acids Research*, 2013. **SILVA ribosomal RNA gene database project.**
 
 ## Author
-Developed by **G. Sivasubramaniyan**  
-PhD Research Scholar, Department of Microbiology  
+**G. Sivasubramaniyan**  
+Assistant Professor & PhD Research Scholar, Department of Microbiology   
 Sri Ramachandra Institute of Higher Education and Research (SRIHER), Chennai, India  
 Email id: shivaviro24@gmail.com, sivasubramaniyan@sriramachandra.edu.in
 
