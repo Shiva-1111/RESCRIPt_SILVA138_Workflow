@@ -71,3 +71,22 @@ qiime feature-classifier fit-classifier-naive-bayes \
     --i-reference-reads silva-138-ssu-nr99-seqs-341f-785r-uniq-shiva.qza \
     --i-reference-taxonomy silva-138-ssu-nr99-tax-341f-785r-derep-uniq-shiva.qza \
     --o-classifier silva-138-ssu-nr99-rescript-classifier-shiva.qza
+
+## Output Files
+- `silva-138-ssu-nr99-seqs.qza` – original sequences  
+- `silva-138-ssu-nr99-tax.qza` – taxonomy reference  
+- `silva-138-ssu-nr99-rescript-classifier-shiva.qza` – final trained classifier
+
+## Citation
+If you use this workflow, please cite:
+
+- Bokulich NA et al., *Microbiome*, 2023. **RESCRIPt: Reproducible sequence taxonomy reference generation.**
+- Quast C et al., *Nucleic Acids Research*, 2013. **SILVA ribosomal RNA gene database project.**
+
+## Author
+Developed by **G. Sivasubramaniyan**  
+PhD Research Scholar, Department of Microbiology  
+Sri Ramachandra Institute of Higher Education and Research (SRIHER), Chennai, India  
+Email id: shivaviro24@gmail.com, sivasubramaniyan@sriramachandra.edu.in
+
+
